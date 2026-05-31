@@ -9,7 +9,7 @@ Key goals included:
 
 ---
 
-## 🛠️ Steps Taken
+## Steps Taken
 - **[Data Cleaning](ca://s?q=Explain_data_cleaning_steps)**
   - Handled missing values (removed or imputed).
   - Removed duplicate records.
