@@ -9,7 +9,7 @@ Key goals included:
 
 ---
 
-## Steps Taken
+## 🛠️ Steps Taken
 - **[Data Cleaning](ca://s?q=Explain_data_cleaning_steps)**
   - Handled missing values (removed or imputed).
   - Removed duplicate records.
@@ -42,5 +42,15 @@ Key goals included:
 ---
 
 ## Output
-- Cleaned dataset exported as: `cleaned_project_data_May.csv`
-- Visualizations saved as PNG files (bar charts, line charts, heatmaps, etc.).
+- **Source Dataset**: [Download from Google Drive](https://drive.google.com/file/d/1TwyuJh2yNQG3iAhU9seg0B2PPIIdM9Bv/view?usp=sharing)  
+- **Cleaned Dataset**: [Download from Google Drive](https://drive.google.com/file/d/1cognDjJly5arK3Y-rUrtO_0qRdvMGiNH/view?usp=sharing)  
+- **Visualizations**: Generated directly within the Python notebook/script (`customer_transactions_analysis Level 1`).  
+  Run the file to reproduce charts (bar charts, line charts, histograms, boxplots, scatterplots, heatmaps).
+
+---
+
+## ⚙️ Usage
+1. Download the dataset(s) from the links above.  
+2. Place them in a `/data/` folder in your project directory.  
+3. Run the Python notebook/script to reproduce cleaning, analysis, and visualizations.  
+4. Results will be exported as CSV and PNG files.
